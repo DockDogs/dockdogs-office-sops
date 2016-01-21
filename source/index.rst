@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DockDogs Office SOP's documentation!
+Welcome to DockDogs Office SOP's docs!
 ===============================================
 
 .. tip:: This is a WORK IN PROCESS (WIP) and is not for commercial use or distribution. 
@@ -30,3 +30,6 @@ Welcome to DockDogs Office SOP's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: To Sort
+
+   google-apps
+   snipe-inventory
