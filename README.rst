@@ -70,8 +70,6 @@ Contributors
 .. _Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 .. _Markdown reference guide: https://help.github.com/articles/markdown-basics/
 .. _Deploybot: http://deploybot.com
-.. _View Releases: https://bitbucket.org/dockdogs/dockdogs-staff-onboarding-documentation/addon/com.releasebucket/releases
+.. _View Releases: https://github.com/DockDogs/dockdogs-office-sops/releases
 .. _DockDogs Worldwide: http://dockdogs.com
 .. _Brian J King: http://github.com/brianjking
-.. _Sean Swearinger: http://dockdogs.com
-.. _Grant Reeves: http://dockdogs.com
