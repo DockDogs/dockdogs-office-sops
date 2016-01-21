@@ -10,7 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: To Sort
 
+   :glob:
 
 
 Indices and tables
