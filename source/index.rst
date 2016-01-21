@@ -6,13 +6,6 @@
 Welcome to DockDogs Office SOP's documentation!
 ===============================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: To Sort
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Website
@@ -25,11 +18,6 @@ Contents:
 
    laptop-setup
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. toctree::
+   :maxdepth: 2
+   :caption: To Sort
