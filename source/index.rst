@@ -12,7 +12,8 @@ Contents:
    :maxdepth: 2
    :caption: To Sort
 
-   :glob:
+   calendarize
+   laptop-setup
 
 
 Indices and tables
