@@ -33,3 +33,8 @@ Welcome to DockDogs Office SOP's docs!
 
    google-apps
    snipe-inventory
+
+Recent Changes
+--------------
+
+.. git_changelog::
