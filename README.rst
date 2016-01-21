@@ -10,9 +10,9 @@ Pre-requesites
 ~~~~~~~~~~~~~~
 
 -  `Git`_
--  `MkDocs`_ or check the `MkDocs Github Repository`_
+-  `Sphinx`_ or check the `MkDocs Github Repository`_
 -  Python (for using MkDocs)
--  Pip (for using/installing MkDocs)
+-  Pip (for using/installing Sphinx)
 -  Text editor such as Atom, Notepad++, or SublimeText.
 -  Terminal/Powershell access (iTerm2, Terminal.app, etc.)
 -  Git Desktop client *(if you prefer a GUI instead of a shell prompt).
@@ -29,9 +29,9 @@ Checkout Documentation for Editing
 How to Edit
 ~~~~~~~~~~~
 
--  Edit files in ``docs`` folder using a text editor such as Atom,
+-  Edit files in ``source`` folder using a text editor such as Atom,
    SublimeText, or Notepad++.
--  Files are written in ``Markdown`` syntax. Learn more about
+-  Files are written in ``reStructuredText`` or ``Markdown`` syntax. Learn more about
    ``Markdown`` syntax at at `DaringFireball`_ or `Markdown
    Cheatsheet`_. Github also has an official `Markdown reference
    guide`_.
@@ -47,16 +47,21 @@ Build & Deployment Status
 	:alt: Documentation Status
 
 
+Build Testing & Deployment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Getting a Specific Release & Viewing All Releases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `View Releases`_
+-  `Download Latest PDF Build`_
 
 
 License & Copyright
 ~~~~~~~~~~~~~~~~~~~
 
--  Copyright 2015-2016, All Rights Reserved - `DockDogs Worldwide`_.
+-  Copyright 2016, All Rights Reserved - `DockDogs Worldwide`_.
 
 Contributors
 ~~~~~~~~~~~~
@@ -64,8 +69,7 @@ Contributors
 -  `Brian J King`_
 
 .. _Git: http://github.com
-.. _MkDocs: http://mkdocs.org
-.. _MkDocs Github Repository: https://github.com/mkdocs/mkdocs/
+.. _Sphinx: http://www.sphinx-doc.org/en/stable/
 .. _DaringFireball: https://daringfireball.net/projects/markdown/
 .. _Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 .. _Markdown reference guide: https://help.github.com/articles/markdown-basics/
@@ -73,3 +77,4 @@ Contributors
 .. _View Releases: https://github.com/DockDogs/dockdogs-office-sops/releases
 .. _DockDogs Worldwide: http://dockdogs.com
 .. _Brian J King: http://github.com/brianjking
+.. _Download Latest PDF Build: http://readthedocs.org/projects/dd-sops/downloads/pdf/latest/
