@@ -6,6 +6,9 @@
 Welcome to DockDogs Office SOP's documentation!
 ===============================================
 
+.. tip:: This is a WORK IN PROCESS (WIP) and is not for commercial use or distribution. 
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Website
@@ -17,6 +20,12 @@ Welcome to DockDogs Office SOP's documentation!
    :caption: Admin Electronics
 
    laptop-setup
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contributing
+
+   contributing
 
 .. toctree::
    :maxdepth: 2
