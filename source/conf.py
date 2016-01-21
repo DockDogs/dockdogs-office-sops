@@ -61,9 +61,9 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Sphinx Test'
-copyright = u'2016, Brian J King'
-author = u'Brian J King'
+project = u'DockDogs Office SOPs'
+copyright = u'2016, DockDogs Worldwide'
+author = u'DockDogs Worldwide'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
