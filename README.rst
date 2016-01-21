@@ -10,8 +10,8 @@ Pre-requesites
 ~~~~~~~~~~~~~~
 
 -  `Git`_
--  `Sphinx`_ or check the `MkDocs Github Repository`_
--  Python (for using MkDocs)
+-  `Sphinx`_ 
+-  Python 2.x
 -  Pip (for using/installing Sphinx)
 -  Text editor such as Atom, Notepad++, or SublimeText.
 -  Terminal/Powershell access (iTerm2, Terminal.app, etc.)
