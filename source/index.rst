@@ -12,7 +12,17 @@ Contents:
    :maxdepth: 2
    :caption: To Sort
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Website
+
    calendarize
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Admin Electronics
+
    laptop-setup
 
 
