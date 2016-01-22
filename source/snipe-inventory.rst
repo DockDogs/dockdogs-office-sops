@@ -11,10 +11,9 @@ Snipe-IT Inventory Tracking
 Upgrading Snipe-IT To New Release Version
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Download release from Snipe-IT GitHub. ex:
+Download release from `Snipe-IT GitHub Repo <https://github.com/snipe/snipe-it>`_ ex:
 
-.. code-block:: sh
-	:linenos:
+
 ::
 	$ curl -LOk https://github.com/snipe/snipe-it/archive/v2.0.6.zip
 	$ unzip v2.0.6.zip
