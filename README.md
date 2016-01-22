@@ -1,6 +1,6 @@
-[![image]]
+[![Build Status](https://travis-ci.org/DockDogs/dockdogs-office-sops.svg?branch=master)](https://travis-ci.org/DockDogs/dockdogs-office-sops)
 
-[![Documentation Status]]
+[![Documentation Status](http://readthedocs.org/projects/dd-sops/badge/?version=latest)](http://dd-sops.readthedocs.org/en/latest/?badge=latest)
 
 Pre-requesites
 ==============
@@ -25,12 +25,15 @@ How to Edit
 Build & Deployment Status
 =========================
 
-[![image]]
+[![Build Status](https://travis-ci.org/DockDogs/dockdogs-office-sops.svg?branch=master)](https://travis-ci.org/DockDogs/dockdogs-office-sops)
 
-[![Documentation Status]]
+[![Documentation Status](http://readthedocs.org/projects/dd-sops/badge/?version=latest)](http://dd-sops.readthedocs.org/en/latest/?badge=latest)
 
 Build Testing & Deployment
 ==========================
+* All commits pushed to the Docs are first sent for CI Testing via [Travis-CI](https://travis-ci.org/DockDogs/dockdogs-office-sops)
+* If [Travis-CI](https://travis-ci.org/DockDogs/dockdogs-office-sops) build passes a ```Git Hook``` runs to inform ```Read The Docs``` to initiate a new build.
+* If the new build succeeds on Read The Docs then it is live. 
 
 Getting a Specific Release & Viewing All Releases
 =================================================
@@ -48,10 +51,6 @@ Contributors
 
 -   [Brian J King]
 
-  [image]: https://travis-ci.org/DockDogs/dockdogs-office-sops.svg?branch=master
-  [![image]]: https://travis-ci.org/DockDogs/dockdogs-office-sops
-  [Documentation Status]: https://readthedocs.org/projects/dd-sops/badge/?version=latest
-  [![Documentation Status]]: http://dd-sops.readthedocs.org/en/latest/?badge=latest
   [Git]: http://github.com
   [Sphinx]: http://www.sphinx-doc.org/en/stable/
   [DaringFireball]: https://daringfireball.net/projects/markdown/
