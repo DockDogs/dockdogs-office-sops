@@ -1,7 +1,7 @@
 Snipe-IT Inventory Tracking
 ================================
 
-
+Things, we have so very many things and must keep track of them. DockDogs uses `Snipe-IT <https://github.com/snipe/snipe-it>`_ to keep track of it all. This is a self-hosted `FOSS` platform that we host on ``lw.dockdogs.com.``
 
 
 
