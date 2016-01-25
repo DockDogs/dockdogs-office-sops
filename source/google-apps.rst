@@ -12,7 +12,7 @@ Email
 
 .. tip:: `Google Apps Learning Center <https://apps.google.com/learning-center/>`_ is available online and has excellent tutorials for familiarizing yourself with using Google Apps tools. 
 
-
+https://tools.google.com/dlpage/gappssync
 
 
 

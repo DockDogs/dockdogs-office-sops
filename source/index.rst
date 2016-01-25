@@ -33,6 +33,7 @@ Welcome to DockDogs Office SOP's docs!
 
    google-apps
    snipe-inventory
+   dockdogs-webserver
 
 Recent Changes
 --------------
