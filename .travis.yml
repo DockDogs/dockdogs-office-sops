@@ -1,11 +1,9 @@
 language: python
 python:
-  - "2.7"
-# command to install dependencies
-install: "pip install -q -r requirements.txt"
-# command to run tests
+- '2.7'
+install: pip install -q -r requirements.txt
 script: make html
 after_success: curl -X POST https://readthedocs.org/build/dd-sops
-# Flags used here, not in `make html`:
-#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
-#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
+notifications:
+  slack:
+    secure: gL29oLR+uL2RLwRZwC/O9KlchPaNJ/RDwl3b93CPDnQBuqBK6Wd84bzxPXyWuZoRM5b2gp/duXpkAJaB2dphnlDjx0xIaiN72L9wIwHkkzRTlETWFFBT2J0WmBShdOoOB2goQWazihI7S8aBEKEBr+911MAhq3FVgYehTflPGNDylnD1f59Am7jhnN+6Cr3o9b/DZbdEF22EVDRUi9bECibnX3I6AXzEAqiBC9qxftD3UtCp56UR3WG0O4oV64asFQ+gjMcCh3GmVuKTQq5MdyrcxSIl00pp8qFTx6JQGcVekzKDXEUFjNqb9W2geLY5z55LMuhAejFQKwqQiPgEjlB3J5cwoTfT41dWu5tH1S1RjWFO1MwT1GJgoeyaHtMT9GTjet0iUjowx0PiSXsgECWBCuiGkjzuEzRTciI2ba2Epl6k65NPT8GVC1nsa6ayMYmqQZlLybSyw4E4mtSYiMA+ApMvCEJadw4Xh4D6sdxE/ggLLf3FwWGxdLyMKAI+7bq1G2y9eoBhTyJ17KA3X3Xe0lBjEgRNC7Vo+Klz15T7ZSq/Hsn6FNEFv66uDzt1dfzE55rug/NRMDSW8imwzTIYaNAiyWV+cflYFtD51EEdJBzJjPkErXFwiwVwffg/jutXcscLpDgIqJOtQRjW9yk4c6e+Iu3J23G/HxdaIuw=
