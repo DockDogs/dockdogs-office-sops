@@ -10,13 +10,13 @@ DockDogs uses Google Apps for Business for handling dockdogs.com email, file sha
 Email
 ~~~~~~~~~~~~~~~~~~
 
-* Email can be accessed via your web browser using the standard Gmail web interface or setup in a mail client such as Outlook, Mail.app, Postbox, etc.
-	* [http://gmail.dockdogs.com](http://gmail.dockdogs.com)
-	* The browser based option is great as it is available from any computer with an internet connection. 
-* Basic Details for Email Client Setup
-	* Email should always be setup as **IMAP**.
-	* Incoming mailserver: imap.gmail.com _(Use port 993)_
-	* Outgoing mailserver: smtp.gmail.com _(Use port 465 or 587)_
+- Email can be accessed via your web browser using the standard Gmail web interface or setup in a mail client such as Outlook, Mail.app, Postbox, etc.
+	- [http://gmail.dockdogs.com](http://gmail.dockdogs.com)
+	- The browser based option is great as it is available from any computer with an internet connection. 
+- Basic Details for Email Client Setup
+	- Email should always be setup as **IMAP**.
+	- Incoming mailserver: imap.gmail.com _(Use port 993)_
+	- Outgoing mailserver: smtp.gmail.com _(Use port 465 or 587)_
 
 .. tip:: When using Microsoft Outlook for **Windows** Google has an excellent add-on which allows you to take full advantage of the Google Apps ecosystem from the confines of MS Outlook. Check out the [Google Apps Sync plugin](https://tools.google.com/dlpage/gappssync).
 
