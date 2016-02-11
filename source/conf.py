@@ -238,7 +238,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'SphinxTest.tex', u'Sphinx Test Documentation',
+  (master_doc, 'SphinxTest.tex', u'DD Office SOPs',
    u'Brian J King', 'manual'),
 ]
 
@@ -268,7 +268,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinxtest', u'Sphinx Test Documentation',
+    (master_doc, 'sphinxtest', u'DD Office SOPs',
      [author], 1)
 ]
 
@@ -282,7 +282,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'SphinxTest', u'Sphinx Test Documentation',
+  (master_doc, 'SphinxTest', u'DD Office SOPs',
    author, 'SphinxTest', 'One line description of project.',
    'Miscellaneous'),
 ]
