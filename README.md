@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/DockDogs/dockdogs-office-sops.svg?branch=master)](https://travis-ci.org/DockDogs/dockdogs-office-sops)
 
-[![Documentation Status](http://readthedocs.org/projects/dd-sops/badge/)](http://dd-sops.readthedocs.org/en/latest/)
+[![Documentation Status](https://readthedocs.org/projects/dd-sops/badge/)](http://dd-sops.readthedocs.org/en/latest/?badge=latest)
 
 Pre-requesites
 ==============
