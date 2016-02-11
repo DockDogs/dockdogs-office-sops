@@ -16,8 +16,6 @@ Events Import
 -  Events only import once. Subsequently, if any changes are made in the
    Neova application to Wave schedules, dates, or any other information
    the event doesn’t update in WordPress.
--  
-
    -  This will be changing at a later date.
 
 Managing an event that has just been imported
@@ -44,7 +42,6 @@ Updating Content/Schedule Details
 -  Any edits to Wave times or anything can be done in the “Visual” tab
    of the editor just like any standard WYSIWYG interface. Should be
    fairly self-explanatory, if you have any questions please advise.
--  
 
    -  Practice times & Finals are coming very soon in Neova and will be
       displayed inside of the event schedules and subsequently pushed to
@@ -58,8 +55,3 @@ Updating Content/Schedule Details
 Adding Sponsor Logos
 ^^^^^^^^^^^^^^^^^^^^
 
--  I’ll provide you an update on this at a later date. However, this is
-   very important and we need to make sure we keep up with it this year.
-
-.. |screenshot12-2-1510.42.png| image:: https://bitbucket.org/repo/zzMEb8/images/504163404-screenshot12-2-1510.42.png
-.. |screenshot12-2-1510.42-1.png| image:: https://bitbucket.org/repo/zzMEb8/images/129055887-screenshot12-2-1510.42-1.png
