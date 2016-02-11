@@ -1,5 +1,4 @@
 Sphinx
 sphinx-rtd-theme
 recommonmark
-commonmark
 sphinx-git
