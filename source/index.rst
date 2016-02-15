@@ -35,8 +35,12 @@ Welcome to DockDogs Office SOP's docs!
    snipe-inventory
    dockdogs-webserver
    cachet-monitor
+   neova-scripts
 
 Recent Changes
 --------------
 
 .. git_changelog::
+
+
+curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env IEVMS_VERSIONS="9" bash
